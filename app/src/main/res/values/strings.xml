@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FirebaseAuthetify</string>
+    <string name="enter_your_email_hint">Enter your Email</string>
+    <string name="enter_your_password_hint">Enter password</string>
+    <string name="btn_back">Back</string>
+    <string name="btn_reset_password">Reset Password</string>
+</resources>
